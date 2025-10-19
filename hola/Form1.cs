@@ -16,5 +16,10 @@ namespace hola
         {
             InitializeComponent();
         }
+
+        private void lblnumero_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
